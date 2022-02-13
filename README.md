@@ -6,7 +6,7 @@ Dirty-d is a discord inspierd chat app where you can host your own server.
 
 To compile and run this program you need cmake and ninja.
 
-## THe scripts
+## The scripts
 
 ```
 ./scripts/helper.sh
@@ -16,9 +16,9 @@ To compile and run this program you need cmake and ninja.
 ```
 
 The `./scripts/helper.sh` inits the cmake configuration and builds all of the subprojects in this case the
-server and client.
-The `./scripts/build.sh` builds all of the subprojects.
-The `./scripts/client.sh` build the client and runs.
+server and client. \
+The `./scripts/build.sh` builds all of the subprojects. \
+The `./scripts/client.sh` build the client and runs. \
 The `./scripts/server.sh` build the server and runs.
 
 # Author
@@ -28,5 +28,5 @@ The `./scripts/server.sh` build the server and runs.
 
 # Resources
 
-[SOCKET PDF](http://www.cs.columbia.edu/~danr/courses/6761/Fall00/hw/pa1/6761-sockhelp.pdf)
+[SOCKET PDF](http://www.cs.columbia.edu/~danr/courses/6761/Fall00/hw/pa1/6761-sockhelp.pdf) \
 [PRESENTATION PDF](https://www.cs.colostate.edu/~gersch/cs457/CS457_tutorial1.pdf)
