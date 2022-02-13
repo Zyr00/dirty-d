@@ -26,6 +26,8 @@ The `./scripts/server.sh` build the server and runs.
 
 # License
 
+[HERE](https://github.com/Zyr00/dirty-d/blob/master/LICENSE)
+
 # Resources
 
 [SOCKET PDF](http://www.cs.columbia.edu/~danr/courses/6761/Fall00/hw/pa1/6761-sockhelp.pdf) \
